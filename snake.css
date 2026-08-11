@@ -41,3 +41,12 @@ body{
     grid-template:repeat(30, 1fr)/repeat(30, 1fr);
 
 }
+
+.play-board .head{
+    background: #60bff6;
+}
+
+.play-board .food 
+{
+    background: rgb(160, 73, 187);
+}
